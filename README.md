@@ -5,7 +5,7 @@ Bu depo yalnız **Noniux Mail Android kurulum dosyasını** dağıtır. Kaynak k
 - Android (8 ve üstü): `noniux-mail.apk`
 - Her sürümde `SHA256SUMS.txt`: indirdiğiniz dosyanın özetini bununla karşılaştırın.
 
-En son sürüm: [Sürümler](../../releases/latest) · Web: [posta.noniux.com](https://posta.noniux.com) · Katalog: [indir.noniux.com](https://indir.noniux.com/noniux-mail/)
+En son sürüm: [Sürümler](../../releases/latest) · Web: [mail.noniux.com](https://mail.noniux.com) · Katalog: [indir.noniux.com](https://indir.noniux.com/noniux-mail/)
 
 ## Kurulum
 
